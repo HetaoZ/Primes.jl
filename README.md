@@ -4,4 +4,6 @@
 
 git clone -b v0.4.0 https://github.com/HetaoZ/Primes.jl.git
 
+## Original repo:
 
+https://github.com/JuliaMath/Primes.jl
